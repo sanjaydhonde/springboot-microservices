@@ -1,0 +1,25 @@
+Request: POST http://ec2-13-127-109-239.ap-south-1.compute.amazonaws.com:8760/api/users/registration
+Content-Type:application/json
+{
+  "fname": "Sanjay",
+  "lname": "Dhonde",
+  "title": "Mr",
+  "pass":"password",
+  "address": {
+    "addLine1": "202, C2, Laxmi Park",
+    "addLine2": "Lokmanya Nagar",
+    "addLine3": "line3",
+    "city": "Thane",
+    "state": "Maharashtra",
+    "pin": "400606"
+  },
+  "contact": {
+    "email": "sanjay.dhonde123@gmail.com",
+    "phone": "9987552271"
+  }
+}
+
+Response:
+{
+    "status": "Email is Sent to your email address. Kindly verify email address."
+}

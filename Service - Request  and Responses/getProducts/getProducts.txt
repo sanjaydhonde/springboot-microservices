@@ -1,0 +1,1326 @@
+Request: GET http://ec2-13-127-109-239.ap-south-1.compute.amazonaws.com:8760/api/products/getProducts
+Response:
+{
+    "products": [
+        {
+            "name": "test-name",
+            "id": "33",
+            "categoryName": "Jewellery",
+            "verId": 2,
+            "description": "test desc",
+            "url": "/images/user1/jewellery/jew-1.jpeg",
+            "isEnabled": true,
+            "cost": 200,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/jewellery/jew-1.jpeg",
+                "/images/user1/jewellery/jew-2.jpeg",
+                "/images/user1/jewellery/jew-3.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "34",
+            "categoryName": "Jewellery",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/jewellery/jew-2.jpeg",
+            "isEnabled": true,
+            "cost": 250,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/jewellery/jew-2.jpeg",
+                "/images/user1/jewellery/jew-3.jpeg",
+                "/images/user1/jewellery/jew-4.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "35",
+            "categoryName": "Jewellery",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/jewellery/jew-3.jpeg",
+            "isEnabled": true,
+            "cost": 250,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/jewellery/jew-3.jpeg",
+                "/images/user1/jewellery/jew-4.jpeg",
+                "/images/user1/jewellery/jew-5.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "36",
+            "categoryName": "Jewellery",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/jewellery/jew-4.jpeg",
+            "isEnabled": true,
+            "cost": 300,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/jewellery/jew-4.jpeg",
+                "/images/user1/jewellery/jew-5.jpeg",
+                "/images/user1/jewellery/jew-6.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "37",
+            "categoryName": "Jewellery",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/jewellery/jew-5.jpeg",
+            "isEnabled": true,
+            "cost": 400,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/jewellery/jew-5.jpeg",
+                "/images/user1/jewellery/jew-6.jpeg",
+                "/images/user1/jewellery/jew-7.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "38",
+            "categoryName": "Jewellery",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/jewellery/jew-6.jpeg",
+            "isEnabled": true,
+            "cost": 450,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/jewellery/jew-6.jpeg",
+                "/images/user1/jewellery/jew-7.jpeg",
+                "/images/user1/jewellery/jew-8.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "39",
+            "categoryName": "Jewellery",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/jewellery/jew-7.jpeg",
+            "isEnabled": true,
+            "cost": 500,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/jewellery/jew-7.jpeg",
+                "/images/user1/jewellery/jew-8.jpeg",
+                "/images/user1/jewellery/jew-9.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "40",
+            "categoryName": "Jewellery",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/jewellery/jew-8.jpeg",
+            "isEnabled": true,
+            "cost": 550,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/jewellery/jew-8.jpeg",
+                "/images/user1/jewellery/jew-9.jpeg",
+                "/images/user1/jewellery/jew-10.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "41",
+            "categoryName": "Jewellery",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/jewellery/jew-9.jpeg",
+            "isEnabled": true,
+            "cost": 650,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/jewellery/jew-9.jpeg",
+                "/images/user1/jewellery/jew-10.jpeg",
+                "/images/user1/jewellery/jew-1.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "42",
+            "categoryName": "Jewellery",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/jewellery/jew-10.jpeg",
+            "isEnabled": true,
+            "cost": 750,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/jewellery/jew-10.jpeg",
+                "/images/user1/jewellery/jew-1.jpeg",
+                "/images/user1/jewellery/jew-2.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "43",
+            "categoryName": "Fashion",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/fashion/ladies-1.jpeg",
+            "isEnabled": true,
+            "cost": 250,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/fashion/ladies-1.jpeg",
+                "/images/user1/fashion/ladies-2.jpeg",
+                "/images/user1/fashion/ladies-3.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "44",
+            "categoryName": "Fashion",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/fashion/ladies-2.jpeg",
+            "isEnabled": true,
+            "cost": 350,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/fashion/ladies-2.jpeg",
+                "/images/user1/fashion/ladies-3.jpeg",
+                "/images/user1/fashion/ladies-4.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "45",
+            "categoryName": "Fashion",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/fashion/ladies-3.jpeg",
+            "isEnabled": true,
+            "cost": 450,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/fashion/ladies-3.jpeg",
+                "/images/user1/fashion/ladies-4.jpeg",
+                "/images/user1/fashion/ladies-5.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "46",
+            "categoryName": "Fashion",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/fashion/ladies-4.jpeg",
+            "isEnabled": true,
+            "cost": 550,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/fashion/ladies-4.jpeg",
+                "/images/user1/fashion/ladies-5.jpeg",
+                "/images/user1/fashion/ladies-6.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "47",
+            "categoryName": "Fashion",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/fashion/ladies-5.jpeg",
+            "isEnabled": true,
+            "cost": 650,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/fashion/ladies-5.jpeg",
+                "/images/user1/fashion/ladies-6.jpeg",
+                "/images/user1/fashion/ladies-7.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "48",
+            "categoryName": "Fashion",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/fashion/ladies-6.jpeg",
+            "isEnabled": true,
+            "cost": 350,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/fashion/ladies-6.jpeg",
+                "/images/user1/fashion/ladies-7.jpeg",
+                "/images/user1/fashion/ladies-8.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "49",
+            "categoryName": "Fashion",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/fashion/ladies-7.jpeg",
+            "isEnabled": true,
+            "cost": 250,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/fashion/ladies-7.jpeg",
+                "/images/user1/fashion/ladies-8.jpeg",
+                "/images/user1/fashion/ladies-9.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "50",
+            "categoryName": "Fashion",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/fashion/ladies-8.jpeg",
+            "isEnabled": true,
+            "cost": 550,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/fashion/ladies-8.jpeg",
+                "/images/user1/fashion/ladies-9.jpeg",
+                "/images/user1/fashion/ladies-10.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "51",
+            "categoryName": "Fashion",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/fashion/ladies-9.jpeg",
+            "isEnabled": true,
+            "cost": 450,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/fashion/ladies-9.jpeg",
+                "/images/user1/fashion/ladies-10.jpeg",
+                "/images/user1/fashion/ladies-1.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "52",
+            "categoryName": "Fashion",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/fashion/ladies-10.jpeg",
+            "isEnabled": true,
+            "cost": 750,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/fashion/ladies-10.jpeg",
+                "/images/user1/fashion/ladies-1.jpeg",
+                "/images/user1/fashion/ladies-2.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "53",
+            "categoryName": "Fashion",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/fashion/baby-1.jpeg",
+            "isEnabled": true,
+            "cost": 850,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/fashion/baby-1.jpeg",
+                "/images/user1/fashion/baby-2.jpeg",
+                "/images/user1/fashion/baby-3.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "54",
+            "categoryName": "Fashion",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/fashion/baby-2.jpeg",
+            "isEnabled": true,
+            "cost": 950,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/fashion/baby-2.jpeg",
+                "/images/user1/fashion/baby-3.jpeg",
+                "/images/user1/fashion/baby-4.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "55",
+            "categoryName": "Fashion",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/fashion/baby-3.jpeg",
+            "isEnabled": true,
+            "cost": 250,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/fashion/baby-3.jpeg",
+                "/images/user1/fashion/baby-4.jpeg",
+                "/images/user1/fashion/baby-1.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "56",
+            "categoryName": "Fashion",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/fashion/baby-4.jpeg",
+            "isEnabled": true,
+            "cost": 350,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/fashion/baby-4.jpeg",
+                "/images/user1/fashion/baby-1.jpeg",
+                "/images/user1/fashion/baby-2.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "57",
+            "categoryName": "Fashion",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/fashion/mens-1.jpeg",
+            "isEnabled": true,
+            "cost": 450,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/fashion/mens-1.jpeg",
+                "/images/user1/fashion/mens-2.jpeg",
+                "/images/user1/fashion/mens-3.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "58",
+            "categoryName": "Fashion",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/fashion/mens-2.jpeg",
+            "isEnabled": true,
+            "cost": 550,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/fashion/mens-2.jpeg",
+                "/images/user1/fashion/mens-3.jpeg",
+                "/images/user1/fashion/mens-4.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "59",
+            "categoryName": "Fashion",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/fashion/mens-3.jpeg",
+            "isEnabled": true,
+            "cost": 650,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/fashion/mens-3.jpeg",
+                "/images/user1/fashion/mens-4.jpeg",
+                "/images/user1/fashion/mens-5.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "60",
+            "categoryName": "Fashion",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/fashion/mens-4.jpeg",
+            "isEnabled": true,
+            "cost": 750,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/fashion/mens-4.jpeg",
+                "/images/user1/fashion/mens-5.jpeg",
+                "/images/user1/fashion/mens-6.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "61",
+            "categoryName": "Fashion",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/fashion/mens-5.jpeg",
+            "isEnabled": true,
+            "cost": 150,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/fashion/mens-5.jpeg",
+                "/images/user1/fashion/mens-6.jpeg",
+                "/images/user1/fashion/mens-7.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "62",
+            "categoryName": "Fashion",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/fashion/mens-6.jpeg",
+            "isEnabled": true,
+            "cost": 250,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/fashion/mens-6.jpeg",
+                "/images/user1/fashion/mens-7.jpeg",
+                "/images/user1/fashion/mens-8.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "63",
+            "categoryName": "Fashion",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/fashion/mens-7.jpeg",
+            "isEnabled": true,
+            "cost": 350,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/fashion/mens-7.jpeg",
+                "/images/user1/fashion/mens-8.jpeg",
+                "/images/user1/fashion/mens-1.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "64",
+            "categoryName": "Fashion",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/fashion/mens-8.jpeg",
+            "isEnabled": true,
+            "cost": 450,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/fashion/mens-8.jpeg",
+                "/images/user1/fashion/mens-1.jpeg",
+                "/images/user1/fashion/mens-2.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "65",
+            "categoryName": "Electronics",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/electronics/speakers.jpeg",
+            "isEnabled": true,
+            "cost": 750,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/electronics/speakers.jpeg",
+                "/images/user1/electronics/tv-4.jpeg",
+                "/images/user1/electronics/tv-3.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "66",
+            "categoryName": "Electronics",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/electronics/Tablet-1.jpeg",
+            "isEnabled": true,
+            "cost": 650,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/electronics/Tablet-1.jpeg",
+                "/images/user1/electronics/speakers.jpeg",
+                "/images/user1/electronics/tv-4.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "67",
+            "categoryName": "Electronics",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/electronics/Tablet-2.jpeg",
+            "isEnabled": true,
+            "cost": 200,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/electronics/Tablet-2.jpeg",
+                "/images/user1/electronics/Tablet-1.jpeg",
+                "/images/user1/electronics/speakers.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "68",
+            "categoryName": "Electronics",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/electronics/camera.jpeg",
+            "isEnabled": true,
+            "cost": 300,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/electronics/camera.jpeg",
+                "/images/user1/electronics/Tablet-2.jpeg",
+                "/images/user1/electronics/Tablet-1.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "69",
+            "categoryName": "Electronics",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/electronics/camera-2.jpeg",
+            "isEnabled": true,
+            "cost": 400,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/electronics/camera-2.jpeg",
+                "/images/user1/electronics/camera.jpeg",
+                "/images/user1/electronics/Tablet-2.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "70",
+            "categoryName": "Electronics",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/electronics/laptop-1.jpeg",
+            "isEnabled": true,
+            "cost": 250,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/electronics/laptop-1.jpeg",
+                "/images/user1/electronics/camera-2.jpeg",
+                "/images/user1/electronics/camera.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "71",
+            "categoryName": "Electronics",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/electronics/laptop-2.jpeg",
+            "isEnabled": true,
+            "cost": 450,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/electronics/laptop-2.jpeg",
+                "/images/user1/electronics/laptop-1.jpeg",
+                "/images/user1/electronics/camera-2.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "72",
+            "categoryName": "Electronics",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/electronics/laptop-3.jpeg",
+            "isEnabled": true,
+            "cost": 350,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/electronics/laptop-3.jpeg",
+                "/images/user1/electronics/laptop-2.jpeg",
+                "/images/user1/electronics/laptop-1.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "73",
+            "categoryName": "Electronics",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/electronics/mobile-1.jpeg",
+            "isEnabled": true,
+            "cost": 650,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/electronics/mobile-1.jpeg",
+                "/images/user1/electronics/laptop-3.jpeg",
+                "/images/user1/electronics/laptop-2.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "74",
+            "categoryName": "Electronics",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/electronics/mobile-2.jpeg",
+            "isEnabled": true,
+            "cost": 750,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/electronics/mobile-2.jpeg",
+                "/images/user1/electronics/mobile-1.jpeg",
+                "/images/user1/electronics/laptop-3.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "75",
+            "categoryName": "Electronics",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/electronics/mobile-3.jpeg",
+            "isEnabled": true,
+            "cost": 750,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/electronics/mobile-3.jpeg",
+                "/images/user1/electronics/mobile-2.jpeg",
+                "/images/user1/electronics/mobile-1.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "76",
+            "categoryName": "Electronics",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/electronics/tv-1.jpeg",
+            "isEnabled": true,
+            "cost": 150,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/electronics/tv-1.jpeg",
+                "/images/user1/electronics/mobile-3.jpeg",
+                "/images/user1/electronics/mobile-2.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "77",
+            "categoryName": "Electronics",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/electronics/tv-2.jpeg",
+            "isEnabled": true,
+            "cost": 250,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/electronics/tv-2.jpeg",
+                "/images/user1/electronics/tv-1.jpeg",
+                "/images/user1/electronics/mobile-3.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "78",
+            "categoryName": "Electronics",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/electronics/tv-3.jpeg",
+            "isEnabled": true,
+            "cost": 350,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/electronics/tv-3.jpeg",
+                "/images/user1/electronics/tv-2.jpeg",
+                "/images/user1/electronics/tv-1.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "79",
+            "categoryName": "Electronics",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/electronics/tv-4.jpeg",
+            "isEnabled": true,
+            "cost": 450,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/electronics/tv-4.jpeg",
+                "/images/user1/electronics/tv-3.jpeg",
+                "/images/user1/electronics/tv-2.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "80",
+            "categoryName": "Home Appliances",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/appliances/windows-ac.png",
+            "isEnabled": true,
+            "cost": 5000,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/appliances/windows-ac.png",
+                "/images/user1/appliances/windows-ac.png"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "81",
+            "categoryName": "Home Appliances",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/appliances/split-ac.jpeg",
+            "isEnabled": true,
+            "cost": 6000,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/appliances/split-ac.jpeg",
+                "/images/user1/appliances/split-ac.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "82",
+            "categoryName": "Home Appliances",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/appliances/vaccum-cleaner.jpeg",
+            "isEnabled": true,
+            "cost": 7000,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/appliances/vaccum-cleaner.jpeg",
+                "/images/user1/appliances/vaccum-cleaner.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "83",
+            "categoryName": "Home Appliances",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/appliances/washing-machine.jpeg",
+            "isEnabled": true,
+            "cost": 8000,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/appliances/washing-machine",
+                "/images/user1/appliances/washing-machine"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "84",
+            "categoryName": "Home Appliances",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/appliances/water-purifier.jpeg",
+            "isEnabled": true,
+            "cost": 9000,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/appliances/water-purifier.jpeg",
+                "/images/user1/appliances/water-purifier.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "85",
+            "categoryName": "Home Appliances",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/appliances/mixer-1.jpeg",
+            "isEnabled": true,
+            "cost": 3000,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/appliances/mixer-1.jpeg",
+                "/images/user1/appliances/mixer-2.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "86",
+            "categoryName": "Home Appliances",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/appliances/mixer-2.jpeg",
+            "isEnabled": true,
+            "cost": 4000,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/appliances/mixer-2.jpeg",
+                "/images/user1/appliances/mixer-1.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "87",
+            "categoryName": "Home Appliances",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/appliances/sewing-machine-1.jpeg",
+            "isEnabled": true,
+            "cost": 7000,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/appliances/sewing-machine-1.jpeg",
+                "/images/user1/appliances/sewing-machine-2.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "88",
+            "categoryName": "Home Appliances",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/appliances/sewing-machine-2.jpeg",
+            "isEnabled": true,
+            "cost": 9000,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/appliances/sewing-machine-2.jpeg",
+                "/images/user1/appliances/sewing-machine-1.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "89",
+            "categoryName": "Home Appliances",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/appliances/refrigerator.jpeg",
+            "isEnabled": true,
+            "cost": 15000,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/appliances/refrigerator.jpeg",
+                "/images/user1/appliances/refrigerator.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "90",
+            "categoryName": "Greeting Cards",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/cards/greeting-card-1.jpeg",
+            "isEnabled": true,
+            "cost": 50,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/cards/greeting-card-1.jpeg",
+                "/images/user1/cards/greeting-card-10.jpeg",
+                "/images/user1/cards/greeting-card-9.jpeg",
+                "/images/user1/cards/greeting-card-8.jpeg",
+                "/images/user1/cards/greeting-card-5.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "91",
+            "categoryName": "Greeting Cards",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/cards/greeting-card-2.jpeg",
+            "isEnabled": true,
+            "cost": 100,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/cards/greeting-card-2.jpeg",
+                "/images/user1/cards/greeting-card-1.jpeg",
+                "/images/user1/cards/greeting-card-10.jpeg",
+                "/images/user1/cards/greeting-card-9.jpeg",
+                "/images/user1/cards/greeting-card-6.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "92",
+            "categoryName": "Greeting Cards",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/cards/greeting-card-3.jpeg",
+            "isEnabled": true,
+            "cost": 100,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/cards/greeting-card-3.jpeg",
+                "/images/user1/cards/greeting-card-2.jpeg",
+                "/images/user1/cards/greeting-card-1.jpeg",
+                "/images/user1/cards/greeting-card-10.jpeg",
+                "/images/user1/cards/greeting-card-7.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "93",
+            "categoryName": "Greeting Cards",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/cards/greeting-card-4.jpeg",
+            "isEnabled": true,
+            "cost": 150,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/cards/greeting-card-4.jpeg",
+                "/images/user1/cards/greeting-card-3.jpeg",
+                "/images/user1/cards/greeting-card-2.jpeg",
+                "/images/user1/cards/greeting-card-1.jpeg",
+                "/images/user1/cards/greeting-card-8.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "94",
+            "categoryName": "Greeting Cards",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/cards/greeting-card-5.jpeg",
+            "isEnabled": true,
+            "cost": 200,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/cards/greeting-card-5.jpeg",
+                "/images/user1/cards/greeting-card-4.jpeg",
+                "/images/user1/cards/greeting-card-3.jpeg",
+                "/images/user1/cards/greeting-card-2.jpeg",
+                "/images/user1/cards/greeting-card-9.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "95",
+            "categoryName": "Greeting Cards",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/cards/greeting-card-6.jpeg",
+            "isEnabled": true,
+            "cost": 50,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/cards/greeting-card-6.jpeg",
+                "/images/user1/cards/greeting-card-5.jpeg",
+                "/images/user1/cards/greeting-card-4.jpeg",
+                "/images/user1/cards/greeting-card-3.jpeg",
+                "/images/user1/cards/greeting-card-10.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "96",
+            "categoryName": "Greeting Cards",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/cards/greeting-card-7.jpeg",
+            "isEnabled": true,
+            "cost": 100,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/cards/greeting-card-7.jpeg",
+                "/images/user1/cards/greeting-card-6.jpeg",
+                "/images/user1/cards/greeting-card-5.jpeg",
+                "/images/user1/cards/greeting-card-4.jpeg",
+                "/images/user1/cards/greeting-card-1.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "97",
+            "categoryName": "Greeting Cards",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/cards/greeting-card-8.jpeg",
+            "isEnabled": true,
+            "cost": 150,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/cards/greeting-card-8.jpeg",
+                "/images/user1/cards/greeting-card-7.jpeg",
+                "/images/user1/cards/greeting-card-6.jpeg",
+                "/images/user1/cards/greeting-card-5.jpeg",
+                "/images/user1/cards/greeting-card-2.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "98",
+            "categoryName": "Greeting Cards",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/cards/greeting-card-9.jpeg",
+            "isEnabled": true,
+            "cost": 100,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/cards/greeting-card-9.jpeg",
+                "/images/user1/cards/greeting-card-8.jpeg",
+                "/images/user1/cards/greeting-card-7.jpeg",
+                "/images/user1/cards/greeting-card-6.jpeg",
+                "/images/user1/cards/greeting-card-3.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "99",
+            "categoryName": "Greeting Cards",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/cards/greeting-card-10.jpeg",
+            "isEnabled": true,
+            "cost": 150,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/cards/greeting-card-10.jpeg",
+                "/images/user1/cards/greeting-card-9.jpeg",
+                "/images/user1/cards/greeting-card-8.jpeg",
+                "/images/user1/cards/greeting-card-7.jpeg",
+                "/images/user1/cards/greeting-card-4.jpeg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "100",
+            "categoryName": "Food",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/food/chinese.jpg",
+            "isEnabled": true,
+            "cost": 100,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/food/chinese.jpg",
+                "/images/user1/food/masalapapad.jpg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "101",
+            "categoryName": "Food",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/food/food1.jpg",
+            "isEnabled": true,
+            "cost": 200,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/food/food1.jpg",
+                "/images/user1/food/chinese.jpg",
+                "/images/user1/food/food3.png",
+                "/images/user1/food/kabab.jpg",
+                "/images/user1/food/masalapapad.jpg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "102",
+            "categoryName": "Food",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/food/food3.png",
+            "isEnabled": true,
+            "cost": 300,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/food/food3.png",
+                "/images/user1/food/food1.jpg",
+                "/images/user1/food/masalapapad.jpg"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "103",
+            "categoryName": "Food",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/food/kabab.jpg",
+            "isEnabled": true,
+            "cost": 200,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/food/kabab.jpg",
+                "/images/user1/food/food3.png",
+                "/images/user1/food/chinese.jpg",
+                "/images/user1/food/food3.png"
+            ],
+            "quantity": 0
+        },
+        {
+            "name": "test-name",
+            "id": "104",
+            "categoryName": "Food",
+            "verId": 2,
+            "description": "test-desc",
+            "url": "/images/user1/food/masalapapad.jpg",
+            "isEnabled": true,
+            "cost": 50,
+            "title": "test-title",
+            "urls": [
+                "/images/user1/food/masalapapad.jpg",
+                "/images/user1/food/kabab.jpg"
+            ],
+            "quantity": 0
+        }
+    ],
+    "banners": [
+        {
+            "id": 0,
+            "name": "banner1",
+            "descri": "banner1 description",
+            "url": "/images/user1/banners/banner7.jpeg",
+            "isEnabled": true
+        },
+        {
+            "id": 0,
+            "name": "banner2",
+            "descri": "banner 2 desc",
+            "url": "/images/user1/banners/banner1.jpeg",
+            "isEnabled": true
+        },
+        {
+            "id": 0,
+            "name": "banner3",
+            "descri": "banner3",
+            "url": "/images/user1/banners/banner11.jpeg",
+            "isEnabled": true
+        },
+        {
+            "id": 0,
+            "name": "banner4",
+            "descri": "banner4",
+            "url": "/images/user1/banners/banner9.jpeg",
+            "isEnabled": true
+        },
+        {
+            "id": 0,
+            "name": "banner5",
+            "descri": "banner5",
+            "url": "/images/user1/banners/banner8.jpeg",
+            "isEnabled": true
+        },
+        {
+            "id": 0,
+            "name": "banner6",
+            "descri": "banner6",
+            "url": "/images/user1/banners/banner6.jpeg",
+            "isEnabled": true
+        }
+    ],
+    "productCategories": [
+        {
+            "categoryName": "Fashion",
+            "categoryDescription": "",
+            "parentCategoryName": "",
+            "categoryUrl": "/images/user1/fashion/fashion-cat.jpeg"
+        },
+        {
+            "categoryName": "Home Appliances",
+            "categoryDescription": "",
+            "parentCategoryName": "",
+            "categoryUrl": "/images/user1/appliances/appliances-cat.jpeg"
+        },
+        {
+            "categoryName": "Jewellery",
+            "categoryDescription": "",
+            "parentCategoryName": "",
+            "categoryUrl": "/images/user1/jewellery/jew-cat.jpeg"
+        },
+        {
+            "categoryName": "Electronics",
+            "categoryDescription": "",
+            "parentCategoryName": "",
+            "categoryUrl": "/images/user1/electronics/electronics-cat.jpeg"
+        },
+        {
+            "categoryName": "Greeting Cards",
+            "categoryDescription": "",
+            "parentCategoryName": "",
+            "categoryUrl": "/images/user1/cards/greeting-card-cat.jpeg"
+        },
+        {
+            "categoryName": "Food",
+            "categoryDescription": "",
+            "parentCategoryName": "",
+            "categoryUrl": "/images/user1/food/food-cat.png"
+        }
+    ],
+    "type": "GET_PRODUCTS",
+    "timestamp": "2018.11.25.16.56.21",
+    "version": "4"
+}

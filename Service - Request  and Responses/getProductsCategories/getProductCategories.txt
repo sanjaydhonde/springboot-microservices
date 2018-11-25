@@ -1,0 +1,45 @@
+Request: GET http://ec2-13-127-109-239.ap-south-1.compute.amazonaws.com:8760/api/products/getProductCategories
+Content-Type:application/json
+
+Response:
+{
+    "categories": [
+        {
+            "categoryName": "Fashion",
+            "categoryDescription": "",
+            "parentCategoryName": "",
+            "categoryUrl": "/images/user1/fashion/fashion-cat.jpeg"
+        },
+        {
+            "categoryName": "Home Appliances",
+            "categoryDescription": "",
+            "parentCategoryName": "",
+            "categoryUrl": "/images/user1/appliances/appliances-cat.jpeg"
+        },
+        {
+            "categoryName": "Jewellery",
+            "categoryDescription": "",
+            "parentCategoryName": "",
+            "categoryUrl": "/images/user1/jewellery/jew-cat.jpeg"
+        },
+        {
+            "categoryName": "Electronics",
+            "categoryDescription": "",
+            "parentCategoryName": "",
+            "categoryUrl": "/images/user1/electronics/electronics-cat.jpeg"
+        },
+        {
+            "categoryName": "Greeting Cards",
+            "categoryDescription": "",
+            "parentCategoryName": "",
+            "categoryUrl": "/images/user1/cards/greeting-card-cat.jpeg"
+        },
+        {
+            "categoryName": "Food",
+            "categoryDescription": "",
+            "parentCategoryName": "",
+            "categoryUrl": "/images/user1/food/food-cat.png"
+        }
+    ],
+    "type": "GET_PRODUCT_CATEGORIES"
+}

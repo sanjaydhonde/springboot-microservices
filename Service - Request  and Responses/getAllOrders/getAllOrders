@@ -1,0 +1,14 @@
+Request: POST http://ec2-13-127-109-239.ap-south-1.compute.amazonaws.com:8760/api/orders/getAllOrders
+Content-Type:application/json
+{
+"type":"GET_ALL_ORDERS",
+"timestamp":"",
+"email":"sanjay.dhonde@gmail.com"
+}
+
+Response:
+{
+    "orderList": [],
+    "type": "GET_ALL_ORDERS",
+    "timestamp": "2018.11.25.17.18.46"
+}

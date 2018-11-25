@@ -1,0 +1,12 @@
+Request: POST 
+Content-Type:application/json
+{
+  "email": "sanjay.dhonde123@gmail.com",
+  "pass":"password"
+}
+
+Response:
+{
+    "isAuthenticated": true,
+    "isEmailVerified": false
+}
